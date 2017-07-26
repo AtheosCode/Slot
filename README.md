@@ -5,3 +5,7 @@ this is s simple Slot demo, Dependent on "DoTween" main function.
 Because only the demo just made data separation, the most basic of the data in the data first class generation, according to data to render the UI performance
 
 由于只是demo只是最基本的做了数据分离，先把数据在数据类里面生成，再根据数据来渲染UI表现
+
+操作说明：
+  KeyCode "Y" is start, KeyCode "U" is ending
+  按键Y开始滚动，按键U结束滚动
