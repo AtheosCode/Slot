@@ -1,9 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Diagnostics;
-using Boo.Lang.Runtime.DynamicDispatching;
-using NUnit.Framework.Constraints;
-using Debug = UnityEngine.Debug;
+﻿using System.Collections.Generic;
 using Random = UnityEngine.Random;
 
 namespace Assets.Scripts
